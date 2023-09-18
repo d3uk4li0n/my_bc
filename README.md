@@ -1,5 +1,5 @@
 # my_bc
-reimplementation of unix basic calculator   
+reimplementation of unix basic calculator (bc)  
 
 # Synopsis
 ./my_bc "1 + 2 * (3 - 42) / 5"   
