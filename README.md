@@ -2,8 +2,8 @@
 reimplementation of basic calculator (bc) in linux 
 
 # Synopsis
-./my_bc "1 + 2 * (3 - 42) / 5"  
-./my_bc "-(-((-4)+-6))"
+./my_bc "1 + 2 * (3 - 42) / 5"   
+./my_bc "-(-((-4)+-6))"  
 
 # Description
 A valid expression:  
