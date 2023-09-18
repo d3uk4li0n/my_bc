@@ -21,7 +21,7 @@ Since we are doing whole number arithmetic, divisions are euclidian keeping only
 • write(2)  
 
 # Installation
-make
+make  
 to clean up after usage: make fclean  
 
 Enjoy!
